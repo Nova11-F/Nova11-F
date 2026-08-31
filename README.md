@@ -1,21 +1,15 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Firman Nova</h1>
+<h1 align="center">Hi 👋, I'm Firman Nova Prayoga</h1>
 
 <h3 align="center">
   Informatics Engineering Student | Full Stack Developer Enthusiast
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Nova11-F">
-    <img src="https://komarev.com/ghpvc/?username=Nova11-F&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm Nova, an Informatics Engineering student at Universitas Negeri Surabaya
+I'm Firman, an Informatics Engineering student at Universitas Negeri Surabaya
 who is passionate about software development and technology.
 
 Currently, I'm focusing on improving my skills in **Full Stack Development**
