@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Nova</h1>
+<h1 align="center">Hi 👋, I'm Firman Nova</h1>
 
 <h3 align="center">
   Informatics Engineering Student | Full Stack Developer Enthusiast
