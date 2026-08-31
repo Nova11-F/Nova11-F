@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=220&section=header&text=Hi%20There!%20I'm%20Nova%20👋&fontSize=42&fontColor=fff&animation=twinkling&desc=%20Software%20Engineering%20&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=220&section=header&text=Hi%20There!%20I'm%20Firman%20👋&fontSize=42&fontColor=fff&animation=twinkling&desc=%20Software%20Engineering%20&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Firman, an Informatics Engineering student at Universitas Negeri Surabaya
+I'm Firman Nova Prayoga, an Informatics Engineering student at Universitas Negeri Surabaya
 who is passionate about software development and technology.
 
 Currently, I'm focusing on improving my skills in **Full Stack Development**
