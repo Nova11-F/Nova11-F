@@ -1,3 +1,20 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30&height=220&section=header&text=Hi%20There!%20I'm%20Nova%20👋&fontSize=42&fontColor=fff&animation=twinkling&desc=Cybersecurity%20|%20Software%20Engineering%20|%20Digital%20Image%20Processing&descSize=18&descAlignY=70" width="100%" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Cybersecurity+%26+Network+Defense;Digital+Image+Processing;Software+Development+%26+Modeling" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- GIF ANIMASI CODING -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500px" alt="Coding GIF" />
+</p>
+
+---
+
 <!-- Header -->
 <h1 align="center">Hi , I'm Firman Nova Prayoga</h1>
 
