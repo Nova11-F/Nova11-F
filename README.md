@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi 👋, I'm Firman Nova Prayoga</h1>
+<h1 align="center">Hi , I'm Firman Nova Prayoga</h1>
 
 <h3 align="center">
   Informatics Engineering Student | Full Stack Developer Enthusiast
@@ -71,17 +71,6 @@ A project focused on biometric identification using retinal image data.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nova11-F&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nova11-F&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
